@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="robot_pkg" type="robot.py" name="carol's_robot"  output="screen">
+  </node>
+</launch>
